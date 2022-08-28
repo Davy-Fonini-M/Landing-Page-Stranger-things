@@ -13,7 +13,7 @@ Uma experiencia unica, recriar um projeto dessa altura átraves da plataforma di
 - CSS
 - JavaScript
 
-## 💬 Assuntos! abordados
+## 💬 Conteúdos!
 - HTML
     - Estruturação da página 
     - Semântica
